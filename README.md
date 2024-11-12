@@ -25,8 +25,8 @@ Dilate the Image
 ### Program:
 
 ```python
-#Name:  SUDHIR KUMAR. R
-#Reg No: 212223230221
+Name:  SUDHIR KUMAR. R
+Reg No: 212223230221
 
 ```
 
